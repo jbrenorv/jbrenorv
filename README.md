@@ -3,12 +3,15 @@
 <a href="https://github.com/jbrenorv">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jbrenorv&show_icons=true&theme=dark&count_private=true&include_all_commits=true" title="GitHub Stats"/>
   <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrenorv&theme=dark&langs_count=3" title="Top Languages"/>
+
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" title="C">
   <img align="center" alt="dart" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart">
   <img align="center" alt="flutter" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter">
   <img align="center" alt="cplusplus" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++">
   <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode">
+  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git">
+  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub">
   <img align="center" alt="ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg" title="Ubuntu">
 </div>
   <br>
