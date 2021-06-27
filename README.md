@@ -20,6 +20,7 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-breno-33b983168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
 
+<!--
 <div style="display: inline_block"><br>
   <a href="https://github.com/jbrenorv/faculdade">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbrenorv&repo=faculdade&theme=dark" title="Repo faculdade"/></a>
@@ -31,7 +32,6 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jbrenorv&repo=maratona_SBC&theme=dark" title="Repo maratona"/></a>
 </div>
 
-<!--
 **jbrenorv/jbrenorv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
