@@ -2,7 +2,7 @@
 
 <a href="https://github.com/jbrenorv">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=jbrenorv&show_icons=true&theme=dark&count_private=true&include_all_commits=true" title="GitHub Stats"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrenorv&theme=dark&langs_count=3" title="Top Languages"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbrenorv&theme=dark&langs_count=8&layout=compact" title="Top Languages"/>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="c" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/c/c-original.svg" title="C">
