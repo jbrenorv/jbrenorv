@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Breno.
 
-### Check out my resume here
+### Check out my resume [here](resume.pdf)
 
 ### Contact me on Linkedin:
 <div> 
